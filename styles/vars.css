@@ -1,0 +1,16 @@
+:root {
+  /* Цвет body */
+  --body-bg-color: #ffffff;
+  /* Основной цвет */
+  --main-bg-color: #DC6133;
+  /* Основной цвет -hover*/
+  --main-bg-color-hover: #e67e58;
+  /* Цвет текста*/
+  --color-text: #111111;
+  /* Цвет плашек - черный*/
+  --color-plase: #111111;
+  /* Цвет кнопок*/
+  --color-btn: #d18023;
+  /* Базовый размер текста */
+  --font--size-base: 14px;
+}
